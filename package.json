@@ -1,0 +1,15 @@
+{
+  "name": "mkdiscordleaderboardbot",
+  "version": "1.0.0",
+  "description": "Discord bot for tracking time trial times in a discord thread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Rosyaykin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4"
+  }
+}
