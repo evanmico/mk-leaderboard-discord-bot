@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Discord bot for tracking time trial times in a discord thread",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ivan Rosyaykin",
