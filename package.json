@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.14.1",
-    "dotenv": "^16.4.4"
+    "dom-to-image": "^2.6.0",
+    "dotenv": "^16.4.4",
+    "text-table": "^0.2.0"
   }
 }
